@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Everything bonitoss adds to AOSP. -->
+
+    <remote name="fdroid" fetch="https://gitlab.com/fdroid/" />
+    <remote name="stevesoltys-github" fetch="https://github.com/stevesoltys/" revision="refs/heads/master" />
+
+    <project path="packages/apps/F-DroidClient" name="fdroidclient.git" remote="fdroid" revision="refs/tags/1.14" />
+    <project path="packages/apps/F-DroidPrivilegedExtension" name="privileged-extension.git" remote="fdroid" revision="refs/tags/0.2.13" />
+    <project path="packages/apps/Seedvault" name="seedvault-prebuilt" remote="stevesoltys-github" />
+</manifest>
