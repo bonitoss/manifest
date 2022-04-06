@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Pixel 3a XL -->
+
+  <project name="device_google_bonito" path="device/google/bonito" groups="device,bonito" remote="calyxos" />
+  <project name="device_google_bonito-kernel" path="device/google/bonito-kernel" groups="device,bonito" remote="calyxos" clone-depth="1" />
+  <project name="device_google_bonito-sepolicy" path="device/google/bonito-sepolicy" groups="device,bonito" remote="calyxos" />
+</manifest>
