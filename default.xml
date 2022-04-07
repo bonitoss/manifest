@@ -5,7 +5,7 @@
            fetch=".."
            review="https://android-review.googlesource.com/" />
 
-  <remote name="bonitoss" fetch="https://github.com/bonitoss/">
+  <remote name="bonitoss" fetch="https://github.com/bonitoss/" />
   <remote name="fdroid" fetch="https://gitlab.com/fdroid/" />
   <remote name="calyxos" fetch="https://gitlab.com/CalyxOS/" />
   <remote name="stevesoltys-github" fetch="https://github.com/stevesoltys/" revision="refs/heads/master" />
