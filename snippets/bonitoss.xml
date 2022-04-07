@@ -4,7 +4,7 @@
 
     <project path="packages/apps/F-DroidClient" name="fdroidclient.git" remote="fdroid" revision="refs/tags/1.14" />
     <project path="packages/apps/F-DroidPrivilegedExtension" name="privileged-extension.git" remote="fdroid" revision="refs/tags/0.2.13" />
-    <project path="packages/apps/Seedvault" name="seedvault" remote="stevesoltys-github" />
+    <project path="packages/apps/Seedvault" name="seedvault" remote="seedvault-github" />
     <project name="Mystic" path="packages/apps/Mystic" remote="bonitoss" />
     <project name="platform_packages_apps_Firewall" path="packages/apps/Firewall" remote="bonitoss" />
     <project name="platform_packages_apps_AudioFX" path="packages/apps/AudioFX" remote="calyxos" />
