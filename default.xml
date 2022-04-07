@@ -6,7 +6,7 @@
   <remote name="bonitoss" fetch="https://github.com/bonitoss/" />
   <remote name="fdroid" fetch="https://gitlab.com/fdroid/" />
   <remote name="calyxos" fetch="https://gitlab.com/CalyxOS/" revision="refs/heads/android12L" />
-  <remote name="stevesoltys-github" fetch="https://github.com/stevesoltys/" revision="refs/heads/master" />
+  <remote name="seedvault-github" fetch="https://github.com/seedvault-app/" revision="refs/heads/android12" />
 
   <default revision="master" remote="aosp" sync-j="4" />
 
